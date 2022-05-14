@@ -26,3 +26,15 @@
 // );
 
 // BÀI 3:
+// function login() {
+//     let user = prompt("Enter User Name")
+//     if (user == "Admin") {
+//         let pass = prompt("Enter your password")
+//         if (pass == "mindX")
+//             alert("Chào mừng")
+//         else if (pass == "" || pass == undefined) alert("Đã hủy")
+//         else alert("Mật khẩu sai ")
+//     } else if (user == "" || user == undefined) alert("Canceled")
+//     else alert("Tôi không biết bạn")
+// }
+// login()
