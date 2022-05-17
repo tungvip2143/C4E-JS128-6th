@@ -83,7 +83,7 @@
 // // Viết hàm xóa phần tử được chọn ra khỏi dãy và in ra dãy sau khi xóa:
 // let arr = [23, 56, 4, 78, 5, 63, 45, 210, 56];
 // let new_arr = arr.filter(function(element) {
-//     return element !== 56
+//     return element       !== 56
 // });
 // console.log(new_arr);
 

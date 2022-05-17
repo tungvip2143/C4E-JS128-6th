@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: rgb(148, 223, 43);
+    background: linear-gradient( 41deg, rgba(148, 223, 43, 1) 0%, rgba(4, 175, 123, 1) 20%, rgba(4, 125, 144, 1) 44%, rgba(4, 101, 133, 1) 61%, rgba(6, 74, 121, 1) 81%, rgba(7, 26, 58, 1) 96%);
+}
+
+.datetime {
+    width: 700px;
+    height: 70px;
+    box-sizing: border-box;
+    border-radius: 7px;
+    background-color: black;
+    color: white;
+    padding: 5px;
+}
+
+.time {
+    display: flex;
+    justify-content: space-around;
+    font-family: tahoma;
+    font-size: 30px;
+}
+
+.date {
+    display: flex;
+    justify-content: space-around;
+    font-family: tahoma;
+    position: relative;
+    left: 10px;
+    font-size: 15px;
+}
+
+#hours {
+    position: relative;
+    right: 18px;
+}
+
+#minutes {
+    position: relative;
+    right: 13px;
+}
