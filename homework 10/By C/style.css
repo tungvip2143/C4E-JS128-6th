@@ -38,12 +38,22 @@ body {
     font-size: 15px;
 }
 
-#hours {
+#D {
     position: relative;
-    right: 18px;
+    left: 20px;
 }
 
-#minutes {
+#H {
     position: relative;
-    right: 13px;
+    left: 50px;
+}
+
+#M {
+    position: relative;
+    left: 30px;
+}
+
+#S {
+    position: relative;
+    left: 6px;
 }

@@ -23,4 +23,5 @@ function initClock() {
     updateClock();
     window.setInterval("updateClock()", 1);
 }
-updateClock()
+initClock();
+updateClock();
