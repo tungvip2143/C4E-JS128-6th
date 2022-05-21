@@ -19,5 +19,8 @@ n.addEventListener('mouseout', (viec2) => {
 
 n.addEventListener('click', (viec3) => {
     alert('Bạn có chắc chắn không muốn thay đổi cuộc đời bạn?')
-    console.log("Tôi rất tiếc")
+    if (true) {
+        cml.innerHTML = "Tôi rất tiếc"
+    }
+
 })
