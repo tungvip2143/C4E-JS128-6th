@@ -19,7 +19,6 @@
 //     c: 3,
 // };
 
-// let arr = Object.keys(obj);
 // let arrk = Object.keys(obj);
 
 // let newarrk = arrk.map(function(a) {
@@ -27,9 +26,9 @@
 // });
 // console.log(newarrk);
 
-// //  Bài 3 :
-// let myFamily = {
-//     quantity: 4,
-//     member: ["Dad", "Mom", "Me", "Daughter"],
-//     location: "Vietnam",
-// };
+//  Bài 3 :
+let myFamily = {
+    quantity: 4,
+    member: ["Dad", "Mom", "Me", "Daughter"],
+    location: "Vietnam",
+};
